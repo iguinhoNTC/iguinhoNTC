@@ -8,4 +8,4 @@ Olá, eu sou o Igor!
 
 🚀 - Conhecimento em Front-End, HTML, CSS, JavaScript. No momento estou aprimorando meus conhecimentos estudando MySQL e Python.
 
-📚 - Idiomas: Português(Nativo) - Inglês(Básico).
+📚 - Idiomas: Português(Nativo) - Inglês(Intermediário).
